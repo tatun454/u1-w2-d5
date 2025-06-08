@@ -1,150 +1,145 @@
-/* Your styles here */
-body{
-    background-color: #E9EDEE;
-    font-family: Arial, Helvetica, sans-serif;
+body {
+  background-color: #e9edee;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-nav{
-    position: relative;
-    top: 0%;
-    background-color: #222F3F;
-    width: 100%;
-    height: fit-content;
+nav {
+  position: relative;
+  top: 0%;
+  background-color: #222f3f;
+  width: 100%;
+  height: fit-content;
 }
 
-nav img{
-    height: 1.5rem;
-    margin: 0.4rem;
+nav img {
+  height: 1.5rem;
+  margin: 0.4rem;
 }
 
-nav ul{
-    display: flex;
-    list-style: none;
-    padding: 10px;
-    background-color: #364759;
+nav ul {
+  display: flex;
+  list-style: none;
+  padding: 10px;
+  background-color: #364759;
 }
 
-nav li{
-    padding: 0.4em;
-    color: white;
+nav li {
+  padding: 0.4em;
+  color: white;
 }
 
-nav li:hover{
-    color: #12375e;
+nav li:hover {
+  color: #12375e;
 }
 
-.head h6{
-    background-color: #F56600;
-    padding: 0.5rem;
-    text-align: center;
-    margin: 25px;
-    color: white;
+.head h6 {
+  background-color: #f56600;
+  padding: 0.5rem;
+  text-align: center;
+  margin: 25px;
+  color: white;
 }
 
-#img{
-    background-image: url("../images/bg-image.png");
-    background-size: cover;
-    padding: 0.3rem;
-    text-align: center;
-    align-content: center;
-    margin: 25px;
-    color: white;
-    height: 16vh;
-    font-size: 32px;
-    font-weight: bold;
+#img {
+  background-image: url("../images/bg-image.png");
+  background-size: cover;
+  padding: 0.3rem;
+  text-align: center;
+  align-content: center;
+  margin: 25px;
+  color: white;
+  height: 16vh;
+  font-size: 32px;
+  font-weight: bold;
 }
 
-#img p{
-   margin-top: 1rem;
-   font-size: 20px;
+#img p {
+  margin-top: 1rem;
+  font-size: 20px;
 }
 
-.p1{
-    background-color: #FFFFFF;
-    margin: 25px;
+.p1 {
+  background-color: #ffffff;
+  margin: 25px;
 }
 
-.p1 p{
-    padding: 10px;
-    padding-bottom: 0;
+.p1 p {
+  padding: 10px;
+  padding-bottom: 0;
 }
 
-.table{
-    border-collapse: separate;
-    border-spacing: 2vw 2vh;
-    width: 100%;
+.table {
+  border-collapse: separate;
+  border-spacing: 2vw 2vh;
+  width: 100%;
 }
 
-td{
-    height: 17rem;
-    border-radius: 17px;
-    background-size: 100%;
-    background-position: center center;
-    background-repeat: no-repeat;
+td {
+  height: 17rem;
+  border-radius: 17px;
+  background-size: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
-#img1{
-    background-image: url("../images/img_1.jpg");
+#img1 {
+  background-image: url("../images/img_1.jpg");
 }
 
- #img2{
-    background-image: url("../images/img_2.jpg");
+#img2 {
+  background-image: url("../images/img_2.jpg");
 }
 
- #img3{
-    background-image: url("../images/img_3.jpg");
+#img3 {
+  background-image: url("../images/img_3.jpg");
 }
 
- #img4{
-    background-image: url("../images/img_4.jpg");
+#img4 {
+  background-image: url("../images/img_4.jpg");
 }
 
 .p2 {
-    height: 25%;
-    margin: 25px;
-    overflow: hidden;
+  height: 25%;
+  margin: 25px;
+  overflow: hidden;
 }
 
-.p2 p{
-    text-align: center;
+.p2 p {
+  text-align: center;
 }
 
 .p3 {
-    height: 25%;
-    margin: 25px;
-    overflow: hidden;
+  height: 25%;
+  margin: 25px;
+  overflow: hidden;
 }
 
-.p3 p{
-    text-align: center;
-    
+.p3 p {
+  text-align: center;
 }
 
-.bottom{
-    background-color: #222F3F;
-    text-align: center;
+.bottom {
+  background-color: #222f3f;
+  text-align: center;
 }
 
-.bottom p{
-    background-color: #364759;
-    padding: .8rem;
+.bottom p {
+  background-color: #364759;
+  padding: 0.8rem;
 }
 
-a{
-    color: #708F9D;
-    text-decoration: none;
-    font-weight: bold;
-
+a {
+  color: #708f9d;
+  text-decoration: none;
+  font-weight: bold;
 }
 
-.bottom p a{
-    color: white;
-    text-decoration: underline;
+.bottom p a {
+  color: white;
+  text-decoration: underline;
 }
 
-.bottom img{
-    width: 10%;
-    padding: 5rem;
+.bottom img {
+  width: 10%;
+  padding: 5rem;
 }
-
-
